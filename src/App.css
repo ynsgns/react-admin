@@ -26,7 +26,7 @@
 }
 
 .homepage-bgimage {
-  background: url("/assets/bg.jpg");
+  background: url("https://react-admin-yns.herokuapp.com/assets/bg.jpg");
   min-height: 95vh;
   background-position: center;
   background-repeat: no-repeat;
